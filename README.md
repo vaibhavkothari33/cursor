@@ -12,8 +12,6 @@
     </ol>
     <h2>Customization</h2>
     <p>You can customize the trailing cursor effect by adjusting the parameters in the <code>params</code> object in the <code>script.js</code> file. Experiment with the <code>spring</code> value and the number of <code>pointCount</code> to achieve different visual effects.</p>
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
     <h2>Author</h2>
     <p>Author: Vaibhav kothari</p>
     <p>GitHub: <a href="https://github.com/vaibhavkothari33">vaibhavkothari33</a></p>
